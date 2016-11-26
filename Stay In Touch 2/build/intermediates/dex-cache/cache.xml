@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4e98f1909f1b256c7b463e1e348b84f70a6c57d2.jar" />
+    </item>
+    <item
+        jar="/Users/snigdharao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_0448ca6098790c9c3af50a2dc95710d5bd8b1842.jar" />
+    </item>
+    <item
+        jar="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_aaa8856e6092466c324005fb048b3149745c10dc.jar" />
+    </item>
+    <item
+        jar="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/libs/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b54cf0400e2248d6c133c7b0a77dea1be09978cc">
+        <dex dex="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_3968a609eb5614073784a2296886895546c5bb49.jar" />
+    </item>
+    <item
+        jar="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/snigdharao/Desktop/Stay In Touch 2/Homework8/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_eb571f9ad9685d403b9d8b49114807bc616b5e3e.jar" />
+    </item>
+
+</items>
